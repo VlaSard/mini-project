@@ -1,5 +1,4 @@
-# mini projects
+# Miscellaneous mini projects
 
 ![](images/project.png)
 
-Miscellaneous mini projects
